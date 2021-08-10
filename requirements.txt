@@ -4,4 +4,4 @@ numpy
 plotly
 sklearn
 matplotlib
-pickle
+pickle==3.8
